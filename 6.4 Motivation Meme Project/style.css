@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;   
+}
+#bharat
+{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color:white;
+    
+}
+#daenerys
+{
+    border:10px solid white;
+    width:100%;
+}
+
